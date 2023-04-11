@@ -32,6 +32,8 @@ boton_multiplicar = Button(root, text='*', width=5, height=5)
 boton_dividir = Button(root, text='/', width=5, height=5)
 boton_igual = Button(root, text='=', width=5, height=5)
 
+#
+
 
 
 
